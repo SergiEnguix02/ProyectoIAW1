@@ -1,0 +1,110 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+header h1{
+    color: red;
+    font-size: 40px;
+}
+
+table{
+    border: double 2px blue;
+}
+
+tr{
+    border: double 2px blue;
+    padding: 2px;
+}
+
+th{
+    color: purple;
+    text-align: center;
+    border: double 2px blue;
+    padding: 2px;
+}
+
+td{
+    text-align: center;
+    border: double 2px blue;
+    padding: 2px;
+}
+
+.IAW{
+    background: cyan;
+}
+
+.SRI{
+    background-color: yellowgreen;
+}
+
+.ASGBD{
+    background-color: pink;
+}
+
+.SAD{
+    background-color: turquoise;
+}
+
+.EIE{
+    background-color: maroon;
+}
+
+.ASO{
+    background-color: midnightblue;
+    color: white;
+}
+
+.ANGLES{
+    background-color: purple;
+}
+
+#botones{
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+button{
+    margin: 10px;
+}
+
+.cabecera{
+    background-color: darkred;
+    height: 100px;
+}
+
+.patio{
+    background-color: lightpink;
+}
+
+.gold{
+    background-color: gold;
+}
+
+.orangered{
+    background-color: orangered;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.darkgreen{
+    background-color: darkgreen;
+    color: white;
+}
